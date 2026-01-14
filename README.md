@@ -11,4 +11,4 @@ Bootstrapped Jan 2026 with a $20 domain. Public, transparent, pro-human.
 - Repo up
 - First manual runs incoming
 
-Support the project: Lightning tips ⚡️
+Support the project: Lightning tips ⚡️ robustfloor85@walletofsatoshi.com
